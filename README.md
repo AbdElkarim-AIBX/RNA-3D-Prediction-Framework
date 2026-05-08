@@ -268,4 +268,4 @@ MIT License - see LICENSE file for details.
 
 ## Acknowledgments
 
-This work was developed at the Laboratory of Research Unit in Medicinal Plants (URPM), University of Amar Telidji, Laghouat, Algeria, and presented at the National Conference on Applied Mathematics and Artificial Intelligence (NCMAI) 2026.
+This work was presented at the National Conference on Applied Mathematics and Artificial Intelligence (NCMAI) 2026.
